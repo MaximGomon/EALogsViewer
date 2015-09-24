@@ -1,0 +1,11 @@
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\bin\Debug\EALogsViewer.exe.config
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\bin\Debug\EALogsViewer.exe
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\bin\Debug\EALogsViewer.pdb
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.LogForm.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.Properties.Resources.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.SettingForm.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.WaitForm.resources
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.csproj.GenerateResource.Cache
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.exe
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.pdb
+C:\Users\gomonm\Documents\TFS\OSHB-Doc_Flow-EA\Branches\1.16.0\EALogsViewer\obj\Debug\EALogsViewer.csprojResolveAssemblyReference.cache
